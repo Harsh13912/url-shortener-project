@@ -277,7 +277,7 @@ function App() {
 
         {/* Footer */}
         <div className="text-center mt-12 text-gray-500 text-sm">
-          <p>Built with FastAPI, React, PostgreSQL (Neon), and Upstash (Redis)</p>
+          <p>Built with FastAPI, React, PostgreSQL (Neon), and Redis</p>
           <p className="mt-1">High-scale read system with cache-aside pattern</p>
         </div>
       </div>
