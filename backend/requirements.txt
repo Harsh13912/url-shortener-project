@@ -2,7 +2,7 @@
 # Python 3.12+
 
 # Web Framework
-fastapi==0.109.0
+fastapi>=0.109.0
 uvicorn[standard]==0.27.0
 python-multipart==0.0.9
 
@@ -11,8 +11,9 @@ asyncpg==0.29.0          # PostgreSQL async driver
 redis[hiredis]==5.0.1    # Redis async client with C parser
 
 # Data Validation
-pydantic==2.5.3
-pydantic[email]==2.5.3
+pydantic>=2.5.3
+pydantic-settings
+email-validator
 
 # Environment Variables
 python-dotenv==1.0.0
