@@ -11,7 +11,7 @@
 
 ### Lightning-Fast URL Shortening with Redis Caching
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-blue?style=for-the-badge)](https://urlshortener.netlify.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-blue?style=for-the-badge)](https://urlshortenersd.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Harsh13912/url-shortener-project)
 
 A highly scalable, full-stack URL shortening service built with **FastAPI**, **React**, **PostgreSQL**, and **Redis**.  
